@@ -1,0 +1,1 @@
+c:\users\aluga.com\documents\visual studio 2013\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
